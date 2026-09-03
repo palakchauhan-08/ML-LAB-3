@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Gender,Marks,Department
+101,Aman,20.0,Male,85.0,CSE
+102,Riya,21.0,Female,,IT
+103,Rahul,,,78.0,CSE
+104,Priya,22.0,Female,88.0,ECE
+105,Karan,21.0,Male,67.0,
+106,Sneha,20.0,Female,95.0,CSE
+107,Vikas,23.0,Male,,ECE
+108,Neha,,,81.0,IT

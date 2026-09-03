@@ -1,0 +1,9 @@
+Student_ID,Name,Age,Marks,Gender_Female,Gender_Male,Department_CSE,Department_ECE,Department_IT
+101,Aman,20.0,85.0,False,True,True,False,False
+102,Riya,21.0,83.0,True,False,False,False,True
+103,Rahul,,78.0,True,False,True,False,False
+104,Priya,22.0,88.0,True,False,False,True,False
+105,Karan,21.0,67.0,False,True,False,False,False
+106,Sneha,20.0,95.0,True,False,True,False,False
+107,Vikas,23.0,83.0,False,True,False,True,False
+108,Neha,,81.0,True,False,False,False,True
